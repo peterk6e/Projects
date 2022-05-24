@@ -17,7 +17,7 @@ Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 |  10 |            Movie Seat Booking           | [Repo](https://github.com/peterk6e/Movie-Seat-Booking) | [Live Demo](https://peterk6e.github.io/Movie-Seat-Booking/) |
 |  11 |            Form Validator          | [Repo](https://github.com/peterk6e/Form-Validator) | [Live Demo](https://peterk6e.github.io/Form-Validator) |
 
-#
+---
 
 ### Web Projects With React.js
 Mini projects built with React.js, Redux ToolKit, Chakra UI, Jest, TypeScript
@@ -30,7 +30,7 @@ Mini projects built with React.js, Redux ToolKit, Chakra UI, Jest, TypeScript
 |  04 |          TypeScript            | [Repo](https://github.com/peterk6e/list-react-typescript) | [Live Demo](https://peterk6e.github.io/list-react-typescript/) |
 |  05 |          Jest Testing Library  | [Repo](https://github.com/peterk6e/Jest-Testing-Library) | Live Demo |
 
-#
+---
 
 ### Web Projects With Node.js
 Mini project built with MongoDB, Express.js, Mongoose.js, jsonwebtoken
