@@ -28,7 +28,8 @@ Mini projects built with React.js, Redux ToolKit, Chakra UI, Jest, TypeScript
 |  02 |          CRUD Redux Toolkit| [Repo](https://github.com/peterk6e/crud-react-redux) | [Live Demo](https://peterk6e.github.io/crud-react-redux/) |
 |  03 |          React Router & Chakra UI | [Repo](https://github.com/peterk6e/React-router-Chakra-UI) | [Live Demo](https://peterk6e.github.io/React-router-Chakra-UI/) |
 |  04 |          TypeScript            | [Repo](https://github.com/peterk6e/list-react-typescript) | [Live Demo](https://peterk6e.github.io/list-react-typescript/) |
-|  05 |          Jest Testing Library  | [Repo](https://github.com/peterk6e/Jest-Testing-Library) | Live Demo |
+|  05 |     TypeScript (filter)       | [Repo](https://github.com/peterk6e/react-typescript-filter) | [Live Demo](https://peterk6e.github.io/react-typescript-filter)|
+|  06 |          Jest Testing Library  | [Repo](https://github.com/peterk6e/Jest-Testing-Library) | Live Demo |
 
 ---
 
