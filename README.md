@@ -25,11 +25,14 @@ Mini projects built with React.js, Redux ToolKit, Chakra UI, Jest, TypeScript
 |  #  |            Projects            | Repo | Live Demo |
 | :-: | :----------------------------: | :---------: | :---------:|
 |  01 |          To Do List| [Repo](https://github.com/peterk6e/react-to-do-list) | [Live Demo](https://peterk6e.github.io/react-to-do-list/) |
-|  02 |          CRUD Redux Toolkit| [Repo](https://github.com/peterk6e/crud-react-redux) | [Live Demo](https://peterk6e.github.io/crud-react-redux/) |
-|  03 |          React Router & Chakra UI | [Repo](https://github.com/peterk6e/React-router-Chakra-UI) | [Live Demo](https://peterk6e.github.io/React-router-Chakra-UI/) |
-|  04 |          TypeScript            | [Repo](https://github.com/peterk6e/list-react-typescript) | [Live Demo](https://peterk6e.github.io/list-react-typescript/) |
-|  05 |     TypeScript (filter)       | [Repo](https://github.com/peterk6e/react-typescript-filter) | [Live Demo](https://peterk6e.github.io/react-typescript-filter)|
+|  02 |          CRUD(Redux Toolkit)| [Repo](https://github.com/peterk6e/crud-react-redux) | [Live Demo](https://peterk6e.github.io/crud-react-redux/) |
+|  03 |          Chakra UI | [Repo](https://github.com/peterk6e/React-router-Chakra-UI) | [Live Demo](https://peterk6e.github.io/React-router-Chakra-UI/) |
+|  04 |          List(TS)            | [Repo](https://github.com/peterk6e/list-react-typescript) | [Live Demo](https://peterk6e.github.io/list-react-typescript/) |
+|  05 |     Filter(TS)       | [Repo](https://github.com/peterk6e/react-typescript-filter) | [Live Demo](https://peterk6e.github.io/react-typescript-filter)|
 |  06 |          Jest Testing Library  | [Repo](https://github.com/peterk6e/Jest-Testing-Library) | Live Demo |
+|  07 |          Drag&Drop tasks management  | [Repo](https://github.com/peterk6e/react-tasks-management) | [Live Demo](https://peterk6e.github.io/react-tasks-management) |
+|  08 |          Landing Page (Tailwind)  | [Repo](https://github.com/peterk6e/landing-page-with-tailwind) | [Live Demo](https://peterk6e.github.io/landing-page-with-tailwind) |
+
 
 ---
 
