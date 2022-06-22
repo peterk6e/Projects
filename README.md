@@ -32,6 +32,7 @@ Mini projects built with React.js, Redux ToolKit, Chakra UI, Jest, TypeScript
 |  06 |          Jest Testing Library  | [Repo](https://github.com/peterk6e/Jest-Testing-Library) | Live Demo |
 |  07 |          Drag&Drop tasks management  | [Repo](https://github.com/peterk6e/react-tasks-management) | [Live Demo](https://peterk6e.github.io/react-tasks-management) |
 |  08 |          Landing Page (Tailwind)  | [Repo](https://github.com/peterk6e/landing-page-with-tailwind) | [Live Demo](https://peterk6e.github.io/landing-page-with-tailwind) |
+|  09 |          Chat Application  | [Repo](https://github.com/peterk6e/client-for-chat-app) | [Live Demo](https://reactchatpager.netlify.app) |
 
 
 ---
@@ -41,3 +42,5 @@ Mini project built with MongoDB, Express.js, Mongoose.js, jsonwebtoken
 |  #  |            Projects            | Repo | Live Demo |
 | :-: | :----------------------------: | :---------: | :---------:|
 |  01 |          JWT Authentication    | [Repo](https://github.com/peterk6e/Authentication) | Live Demo |
+|  02 |          Chat application     | [Repo](https://github.com/peterk6e/server-for-chat-app) | [Live Demo](https://reactchatpager.netlify.app) |
+
